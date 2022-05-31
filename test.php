@@ -1,3 +1,4 @@
 <?php
-	echo 'a1'
+	echo 'a1';
+	
 ?>
